@@ -1,7 +1,5 @@
   
   # Comments in R Script File
-    
-  
   
   # Single line comment in R can be done using ==>  #
   

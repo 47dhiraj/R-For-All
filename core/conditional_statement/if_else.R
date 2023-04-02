@@ -1,6 +1,9 @@
 # if else conditional statement
 
-random_number <- rnorm(1)     
+
+rm(answer)                        
+
+random_number <- rnorm(1)       
 random_number
 
 

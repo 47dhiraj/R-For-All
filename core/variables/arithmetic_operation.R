@@ -1,3 +1,4 @@
+
 # Arithmetic Operation
 
 
@@ -6,7 +7,13 @@ A <- 40.5
 B <- 6.5
 
 c <- A + B
-c               
+
+# To print value of a variable
+# Either  
+c               # R ma direct variable matra lekhyo vani console ma print huncha
+# OR
+print(c)
+
 
 
 # Subtraction Operation
@@ -32,6 +39,7 @@ var1 <- 10
 var2 <- 2.5
 
 var3 <- var1 / var2
-var3         
+
+var3              # R ma direct variable matra lekhyo vani console ma print huncha
 
 

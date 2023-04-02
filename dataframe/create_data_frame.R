@@ -1,4 +1,5 @@
-# Create Data Frame in R
+
+Use data.frame() function to create a Data Frame
 
 
 # Example : Create a data frame
